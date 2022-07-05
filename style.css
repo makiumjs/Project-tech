@@ -1,0 +1,60 @@
+.tech-card2 {
+    border: solid 2px #323232;
+    border-radius: 20px;
+    text-align: center;
+    text-emphasis-color: black;
+    overflow: hidden;
+    max-width: 350px;
+    margin: auto;
+    box-shadow: 5px, 5px, 5px  #323232;
+    background: white;
+    background: linear-gradient(180deg, rgb(0, 255, 110) 0%, rgb(71, 243, 165) 44%, rgba(255,255,255,1) 100%);
+}
+.tech-card {
+    border: solid 2px #323232;
+    border-radius: 20px;
+    text-emphasis-color: black;
+    text-align: center;
+    overflow: hidden;
+    max-width: 350px;
+    margin: auto;
+    box-shadow: 5px, 5px, 5px  #13bdfb;
+    background: white;
+    background: linear-gradient(180deg, rgb(255, 1, 1) 0%, rgb(244, 118, 118) 44%, rgba(255,255,255,1) 100%);
+}.tech-card3 {
+    border: solid 2px #323232;
+    border-radius: 20px;
+    text-emphasis-color: black;
+    text-align: center;
+    overflow: hidden;
+    max-width: 350px;
+    margin: auto;
+    box-shadow: 5px, 5px, 5px  #323232;
+    background: white;
+    background: linear-gradient(180deg, rgb(54, 1, 81) 0%, rgb(137, 36, 159) 44%, rgba(255,255,255,1) 100%);
+}
+.tech-navbar {
+    background: white;
+    background: linear-gradient(90deg, rgb(205, 255, 218) 0%, rgb(238, 142, 137) 44%, rgb(174, 105, 173) 100%);
+}
+.tech-navbar a {
+    color: #232323;
+    text-decoration: none;
+    font-weight: 400;
+    text-transform: uppercase;
+    transition: all 0.5s;
+}
+.tech-navbar a:hover {
+    color: #f8f000;
+}
+.tc {
+    
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: x-large;
+}
+
+.tp{
+    border-radius: 10px;
+
+}
